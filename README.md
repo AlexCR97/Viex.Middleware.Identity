@@ -1,1 +1,1 @@
-# Viex.Module.Identity
+# Viex.Middleware.Identity
